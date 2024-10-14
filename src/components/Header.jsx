@@ -2,7 +2,7 @@
 
 
 import React from 'react'
-import logo from "../assets/logo.jpeg"
+import logo from "../assets/logoasseets.jpeg"
 
 function Header() {
   return (
